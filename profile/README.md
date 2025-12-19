@@ -2,4 +2,6 @@ Welcome to [Tone Singleton](https://tonesingleton.com)'s little corner on GitHub
 
 ### Get in Touch
 
-[Drop us a message](https://tonesingleton.com/contact) or mention us on GitHub and we'll gladly respond.
+[Drop us a message](https://tonesingleton.com/contact) or mention us on GitHub, and we'll gladly respond.
+
+<img width="120" height="120" alt="aws-partner-agentic-ai-sales" src="https://github.com/user-attachments/assets/874bb274-aa52-4a75-aae5-b046d4182c93" />
